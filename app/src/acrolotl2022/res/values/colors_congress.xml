@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="pressed_congress">#CCa41c31</color>
+
+    <color name="track_background_default_open_level">#aa032BFF</color>
+    <color name="track_background_default_beginner_level">#aa28AF26</color>
+    <color name="track_background_default_intermediate_level">#aa9FA831</color>
+    <color name="track_background_default_advanced_level">#aaA81212</color>
+
+    <color name="track_background_highlight_open_level">#032BFF</color>
+    <color name="track_background_highlight_beginner_level">#28AF26</color>
+    <color name="track_background_highlight_intermediate_level">#9FA831</color>
+    <color name="track_background_highlight_advanced_level">#A81212</color>
+
+    <!-- Default state -->
+
+    <color name="track_background_default">#aa595959</color>
+    <color name="track_background_default_back_to_basics">#aa283f0a</color>
+    <color name="track_background_default_chaosstudio_hamburg">#aa06007f</color>
+    <color name="track_background_default_digitalcourage">#aa4D4313</color>
+    <color name="track_background_default_engelshifts">#aa523023</color>
+    <color name="track_background_default_feminismus">#aa450345</color>
+    <color name="track_background_default_into_to_the_future">#aa184c64</color>
+    <color name="track_background_default_kunst_kultur_erholung">#aa183D26</color>
+    <color name="track_background_default_pandemie">#aa926f17</color>
+    <color name="track_background_default_sicherheit">#aa0c8686</color>
+    <color name="track_background_default_soziales_gesellschaft">#aaab0e55</color>
+    <color name="track_background_default_talk">#aaB34D00</color>
+    <color name="track_background_default_technik">#aa21615C</color>
+    <color name="track_background_default_umwelt">#aa1f7a13</color>
+    <color name="track_background_default_r3s_monheim_rhein">#aa6B2447</color>
+
+    <!-- Highlight state -->
+
+    <color name="track_background_highlight">#8c8c8c</color>
+    <color name="track_background_highlight_back_to_basics">#6fad1b</color>
+    <color name="track_background_highlight_chaosstudio_hamburg">#0d00ff</color>
+    <color name="track_background_highlight_digitalcourage">#a8a326</color>
+    <color name="track_background_highlight_engelshifts">#9F5E45</color>
+    <color name="track_background_highlight_feminismus">#a409a3</color>
+    <color name="track_background_highlight_into_to_the_future">#309bcb</color>
+    <color name="track_background_highlight_kunst_kultur_erholung">#32804d</color>
+    <color name="track_background_highlight_pandemie">#e2b647</color>
+    <color name="track_background_highlight_sicherheit">#27ebeb</color>
+    <color name="track_background_highlight_soziales_gesellschaft">#f04994</color>
+    <color name="track_background_highlight_talk">#CC5800</color>
+    <color name="track_background_highlight_technik">#3caea5</color>
+    <color name="track_background_highlight_umwelt">#42de2f</color>
+    <color name="track_background_highlight_r3s_monheim_rhein">#B83E78</color>
+
+    <!-- Track color -->
+    <color name="track_name">#beffffff</color>
+
+    <!-- Title color -->
+    <color name="session_title_on_default_background">#a0ffffff</color>
+    <color name="session_title_on_highlight_background">#fff</color>
+
+</resources>
