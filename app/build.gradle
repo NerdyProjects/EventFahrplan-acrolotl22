@@ -17,7 +17,7 @@ android {
 
     defaultConfig {
         versionCode 88
-        versionName "1.54.0"
+        versionName "1.53.2"
         minSdk Android.minSdkVersion
         targetSdk Android.targetSdkVersion
         archivesBaseName = "Fahrplan-$versionName"
