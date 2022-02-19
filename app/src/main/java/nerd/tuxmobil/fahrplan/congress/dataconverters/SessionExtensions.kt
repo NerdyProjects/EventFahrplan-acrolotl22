@@ -169,6 +169,10 @@ fun Session.sanitize(): Session {
     if (abstractt == description) {
         abstractt = ""
     }
+    if (subtitle.isEmpty()) {
+        subtitle = abstractt
+        abstractt = ""
+    }
     if (createSpeakersString(speakers) == subtitle) {
         subtitle = ""
     }
